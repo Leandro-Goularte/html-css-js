@@ -1,0 +1,15 @@
+body{
+    background: gray;
+}
+
+h1{
+    background: #FF0000;
+}
+
+#segundo_titulo {
+    background: orange;
+}
+
+p{
+    background: rgb(0, 0, 255);
+}
